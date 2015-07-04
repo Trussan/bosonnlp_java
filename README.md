@@ -1,2 +1,2 @@
 # bosonnlp_java
-The Java SDK for BosonNLP API
+**bosonnlp_java** is a Java version sdk for http://bosonnlp.com
